@@ -1,4 +1,4 @@
-# FabonacciSequence Project "+ 1"
+ FabonacciSequence Project :+ 1:
 
 *Project for creating a basic Fibonacci Sequence Java Project.*
 
